@@ -1,0 +1,13 @@
+{
+  "name": "genpark-untyped-lambda-calculus-beta-reducer-skill",
+  "version": "1.0.0",
+  "description": "Untyped Lambda Calculus interpreter performing alpha-conversion, capture-avoiding substitution, and normal-order beta reduction with 0 pip.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lambda-calculus",
+    "beta-reduction",
+    "programming-language-theory",
+    "formal-semantics"
+  ]
+}
